@@ -1,1 +1,1 @@
-alert("js file is correctly linked");
+$("h1").hide().show("slow");

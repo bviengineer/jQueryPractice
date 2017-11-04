@@ -1,7 +1,11 @@
 body {
-    background-color: rgb(122, 76, 18);
+    background-color: darkblue;
     color: whitesmoke;
     text-align: center;
-    font-size: 2rem;
-    padding-top: 2rem;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+img {
+    border-radius: 50%;
 }
